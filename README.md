@@ -1,6 +1,7 @@
 # To-Do-List-App
 
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
+![Screenshot (73)](https://github.com/Shubhambdave/To-Do-List-App/assets/94299807/ffdfbf44-34c0-404f-b6cc-36a411dad37e)
 
 ### Features
 * Add new task
@@ -11,6 +12,5 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 
 ### Technologies used:
 * HTML
-* CSS![Screenshot (73)](https://github.com/Shubhambdave/To-Do-List-App/assets/94299807/ffdfbf44-34c0-404f-b6cc-36a411dad37e)
-
-* JavaScript/jQuery 3.1.1
+* CSS
+* JavaScript
